@@ -42,10 +42,9 @@ Accurately localizing and segmenting occluded objects from faint light patterns 
 
 ## Test
 ```
-python3 test.py \
-    -- \
-    -- \
-    -- \
-    -- \
-    --
+python3 {test_script} {model} \
+    --gpus={gpus} \
+    --weight={weight_path} \
+    --val={valset} \
+    --save
 ```
