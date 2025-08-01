@@ -41,4 +41,11 @@ Accurately localizing and segmenting occluded objects from faint light patterns 
 ---
 
 ## Test
-
+```
+python3 test.py \
+    -- \
+    -- \
+    -- \
+    -- \
+    --
+```
