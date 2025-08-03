@@ -42,8 +42,7 @@ Accurately localizing and segmenting occluded objects from faint light patterns 
 
 ## Model Weights
 > WavePCNet_weight.pth
-- link: https://pan.baidu.com/s/1fJF3DU7UR66mY2_CxUX8mg?pwd=vxvs
-- password: vxvs
+- link:
 ## Test
 ```
 python3 {test_script} {model} \
