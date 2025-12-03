@@ -16,8 +16,10 @@
 
 ## 📄 Paper Information
 
-- **Title**: Wavefront-Constrained Passive Obscured Object Detection
-- **Status**: Under Review at [AAAI 2026]
+- **Title:** [Wavefront-Constrained Passive Obscured Object Detection](http://arxiv.org/abs/2511.20991)
+- **Authors:** Zhiwen Zheng, Yiwei Ouyang, Zhao Huang, Tao Zhang, Xiaoshuai Zhang, Huiyu Zhou, Wenwen Tang, Shaowei Jiang, Jin Liu, Xingru Huang
+- **Venue:** Accepted by **AAAI 2026**
+- **Links:** [![arXiv](https://img.shields.io/badge/arXiv-2511.20991-b31b1b.svg)](http://arxiv.org/abs/2511.20991)
 
 ---
 
